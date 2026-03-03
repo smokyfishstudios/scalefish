@@ -25,3 +25,17 @@ Open a new issue and choose "Feature Request" template.
 ---
 
 🙏 Thank you for using and helping ScaleFish improve!
+
+## Changelog
+
+### v1.1 — 2026-03-03
+- Added Auto-Optimizer feature
+- Fixed Resizer & Crop layout
+
+### v1.0 — 2026-02-27
+- Exact resize
+- Auto-crop (object-fit) + focus crop
+- Better WebP compression + quality slider
+- Drag & drop + batch processing
+- Live previews + clean CLEAR reset
+- 100% private (local-only processing)
